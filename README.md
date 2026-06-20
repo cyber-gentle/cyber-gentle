@@ -30,7 +30,7 @@ func main() {
     me := Developer{
         Name:     "Abraham David",
         Username: "cyber-gentle",
-        Location: "Lagos, Nigeria 🇳🇬",
+        Location: "Benue, Nigeria 🇳🇬",
         Learning: []string{
             "Backend Development",
             "System Design",
