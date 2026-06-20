@@ -115,6 +115,9 @@ func main() {
 
 <div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ADD8)
+
 ### 🚀 Thanks for visiting my profile!
 
 **Building. Learning. Improving. Repeat.**
