@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Abraham David
 
-### 💻 Go Backend Developer • 🛡️ Cybersecurity Enthusiast • 🚀 Open Source Learner
+### 💻 Python Backend Developer • Go Backend Developer • 🛡️ Cybersecurity Enthusiast • 🚀 Open Source Learner
 
 Building backend systems with Go, exploring cybersecurity, and learning in public — one commit at a time.
 
