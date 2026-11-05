@@ -4,7 +4,7 @@
 
 Building backend systems with Go, exploring cybersecurity, and learning in public — one commit at a time.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Go+Backend+Developer;Cybersecurity+Enthusiast;Open+Source+Learner;Building+CLI+Tools+and+APIs;Always+Learning+Something+New)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Go+Backend+Developer;Python+Backend+Developer;Cybersecurity+Enthusiast;Open+Source+Learner;Building+CLI+Tools+and+APIs;Always+Learning+Something+New)
 
 ---
 
