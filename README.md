@@ -20,6 +20,15 @@ I'm currently a student developer at **Learn2Earn**, learning through hands-on p
 
 My goal is to build scalable, useful applications that combine great user experiences with intelligent AI capabilities.
 
+
+## Education & Learning
+
+- **University of the People (UoPeople)** — Currently pursuing a degree in Computer Science.
+- **Learn2Earn** — Software development training and practical engineering experience.
+- **freeCodeCamp** — Learning through hands-on programming courses and projects.
+- **TS Academy** — Continuing my software development education.
+
+
 ## Current Focus
 
 - Building full-stack applications.
