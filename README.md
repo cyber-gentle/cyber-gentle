@@ -16,7 +16,7 @@ My interests span full-stack development, backend engineering, artificial intell
 
 I work with Go, Python, JavaScript, and TypeScript, while expanding my knowledge of frontend technologies, AI integration, APIs, databases, and cloud infrastructure.
 
-I'm currently a student developer at **Zone01 / Learn2Earn**, learning through hands-on projects, collaboration, and continuous experimentation.
+I'm currently a student developer at **Learn2Earn**, learning through hands-on projects, collaboration, and continuous experimentation.
 
 My goal is to build scalable, useful applications that combine great user experiences with intelligent AI capabilities.
 
